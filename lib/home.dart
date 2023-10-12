@@ -17,7 +17,7 @@ class Home extends StatelessWidget {
             Container(
               margin: EdgeInsets.only(right: 10),
               decoration: BoxDecoration(
-                color: Colors.grey.shade200,
+                color: const Color.fromARGB(255, 187, 47, 47),
                 shape: BoxShape.circle,  
               ),
               child: IconButton(
